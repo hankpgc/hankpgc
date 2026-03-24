@@ -1,4 +1,4 @@
-## Hi there 👋
+![LeetCode Stats](https://leetcard.jacoblin.cool/hankpgc?theme=dark&font=Noto%20Sans)
 
 <!--
 **hankpgc/hankpgc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
